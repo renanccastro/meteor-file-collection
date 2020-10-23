@@ -4,7 +4,7 @@
 
 ## Notice!
 
-#### **Effective 01-01-2018 this project will enter "maintenance mode". This means that I will no longer be implementing any new features or providing debugging help or "general support" via github issues.**
+#### fork with mongo atlas compatibility fix 
 
 **I will (for some period of time) still consider *high quality* pull-requests implementing bug fixes and generally useful new minor features. ("High quality" is admittedly subjective, but some must-haves: documentation, tests, backward compatibility, low change complexity, harmony with existing design...)**
 
